@@ -1,0 +1,4 @@
+author: Patrick
+files:
+- Avoiding-AVX-to-SSE-Transition-Penalties.pdf
+title: Avoiding AVX to SSE Transition Penalties
